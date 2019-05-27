@@ -62,4 +62,4 @@ def find_shortest_path(start: int, end: int):
 
 
 load_graph(path="generatedGraph.json")  # load graph from json file
-find_shortest_path(start=18, end=246)  # 1n78=Erde & 246=b3-r7-r4
+find_shortest_path(start=18, end=246)  # 18=Erde & 246=b3-r7-r4
